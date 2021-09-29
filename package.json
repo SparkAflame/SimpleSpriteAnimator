@@ -1,0 +1,15 @@
+{
+  "name": "sparkaflame.sprites",
+  "version": "1.0.0",
+  "displayName": "Simple Sprite Animator",
+  "description": "A simple sprite animator for those times when one doesn't need the overheads or complexity of Unity's Mecanim, Playables, or the 2D Animation package.\n\nIt comprises a single script having a several playback options and a straightforward API allowing animations to be played, paused, and stopped.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "sprite",
+	"animation"
+  ],
+  "author": {
+    "name" : "SparkAflame @ GitHub"
+  }
+}
